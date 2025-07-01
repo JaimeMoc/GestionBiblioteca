@@ -44,3 +44,34 @@ docs/
     ├── 004-separacion-logica-ui.md
     ├── 005-uso-interfaces.md
     └── 006-lista-materiales.md
+```
+## 🚀 Cómo ejecutar el proyecto
+
+1. Clona el repositorio:
+
+git clone https://github.com/tu-usuario/gestion-biblioteca.git
+Abre el proyecto en IntelliJ IDEA.
+
+Ejecuta la clase Main.java.
+
+## Funcionalidades principales
+- Agregar, mostrar, buscar y eliminar materiales (libros, revistas, periódicos).
+- Separación de usuarios (Estudiante, Bibliotecario).
+- Interfaces para manejar acciones de préstamo, usuario, y visualización.
+- Aplicación de principios SOLID y buenas prácticas de diseño.
+
+## Objetivos de aprendizaje
+Este proyecto fue creado con el objetivo de:
+
+- Aplicar programación orientada a objetos desde cero.
+- Comprender y aplicar los principios SOLID.
+- Documentar decisiones técnicas usando ADRs.
+- Estructurar código de manera profesional y mantenible.
+
+## Decisiones arquitectónicas
+Consulta el directorio /docs/adr para ver las decisiones técnicas tomadas durante el desarrollo.
+
+## Autor
+Jaime Alberto Suárez Moctezuma
+Estudiante de Ingeniería en Sistemas Computacionales
+LinkedIn: www.linkedin.com/in/jaime-alberto-suarez-moctezuma-410128269
