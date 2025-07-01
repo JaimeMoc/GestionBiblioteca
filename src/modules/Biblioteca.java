@@ -31,7 +31,7 @@ public class Biblioteca {
     }
 
     public boolean eliminarPorId(int id){
-        return.materiales.removeIf(m -> m.getId() == id);
+        return materiales.removeIf(m -> m.getId() == id);
     }
 
     public int contarMateriales(){

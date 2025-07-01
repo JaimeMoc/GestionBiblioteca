@@ -29,7 +29,7 @@ public class Estudiante extends Usuario {
         private boolean estado;
 
         public LocalDateTime getFechaRegistro(){return fechaRegistro;}
-        public void setFechaRegistro(LocalDateTime fechaRegistro) {this.fechaRegistro;}
+        public void setFechaRegistro(LocalDateTime fechaRegistro) {this.fechaRegistro = fechaRegistro;}
 
         public String getCiclo() {return ciclo;}
         public void setCiclo(String ciclo){this.ciclo = ciclo;}

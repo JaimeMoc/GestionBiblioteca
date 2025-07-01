@@ -8,7 +8,7 @@ public class Main {
         Biblioteca biblioteca = new Biblioteca();
 
         Libro libro = new Libro("Cien Años de Soledad", 1, 1001, new Date(),
-                "Cien Años de Soledad", "123456", 300, "Gabriel García Márquez", "Realismo Mágico", "Físico");
+                "123456", 300, "Gabriel García Márquez", "Realismo Mágico", "Físico");
 
         Revista revista = new Revista("National Geographic", 2, 1002, new Date(),
                 new Date(), 215, "Ciencia", true);
