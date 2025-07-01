@@ -6,7 +6,7 @@ Proyecto en Java orientado a objetos para la gestión de materiales bibliográfi
 
 ## 🛠️ Tecnologías utilizadas
 
-- Java 8+
+- java 23.0.2 2025-01-21
 - IntelliJ IDEA (IDE recomendado)
 - Programación Orientada a Objetos (POO)
 - Principios SOLID
