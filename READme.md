@@ -74,6 +74,11 @@ Este proyecto fue creado con el objetivo de:
 ## Decisiones arquitectónicas
 Consulta el directorio /docs/adr para ver las decisiones técnicas tomadas durante el desarrollo.
 
+## Demo
+
+📽️ Mira la demo del proyecto en YouTube:  
+🔗 [https://youtu.be/eH3GdHYvIIk](https://youtu.be/eH3GdHYvIIk)
+
 ## Autor
 Jaime Alberto Suárez Moctezuma
 Estudiante de Ingeniería en Sistemas Computacionales
