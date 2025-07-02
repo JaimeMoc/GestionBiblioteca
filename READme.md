@@ -13,7 +13,10 @@ Proyecto en Java orientado a objetos para la gestión de materiales bibliográfi
 - Estructura modular (por paquetes)
 - ADRs para decisiones arquitectónicas
 
----
+## Diseño de los requerimientos
+
+![Captura de pantalla del sistema](diseñoRequerimientos.jpg)
+
 
 ## 📂 Estructura del proyecto
 
